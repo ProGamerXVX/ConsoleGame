@@ -1,0 +1,15 @@
+C:\Users\artem\source\repos\RolePlayGame\RolePlayGame\bin\Debug\net6.0-windows\RolePlayGame.exe
+C:\Users\artem\source\repos\RolePlayGame\RolePlayGame\bin\Debug\net6.0-windows\RolePlayGame.deps.json
+C:\Users\artem\source\repos\RolePlayGame\RolePlayGame\bin\Debug\net6.0-windows\RolePlayGame.runtimeconfig.json
+C:\Users\artem\source\repos\RolePlayGame\RolePlayGame\bin\Debug\net6.0-windows\RolePlayGame.dll
+C:\Users\artem\source\repos\RolePlayGame\RolePlayGame\bin\Debug\net6.0-windows\RolePlayGame.pdb
+C:\Users\artem\source\repos\RolePlayGame\RolePlayGame\obj\Debug\net6.0-windows\RolePlayGame.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\RolePlayGame\RolePlayGame\obj\Debug\net6.0-windows\RolePlayGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\source\repos\RolePlayGame\RolePlayGame\obj\Debug\net6.0-windows\RolePlayGame.AssemblyInfoInputs.cache
+C:\Users\artem\source\repos\RolePlayGame\RolePlayGame\obj\Debug\net6.0-windows\RolePlayGame.AssemblyInfo.cs
+C:\Users\artem\source\repos\RolePlayGame\RolePlayGame\obj\Debug\net6.0-windows\RolePlayGame.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\RolePlayGame\RolePlayGame\obj\Debug\net6.0-windows\RolePlayGame.dll
+C:\Users\artem\source\repos\RolePlayGame\RolePlayGame\obj\Debug\net6.0-windows\refint\RolePlayGame.dll
+C:\Users\artem\source\repos\RolePlayGame\RolePlayGame\obj\Debug\net6.0-windows\RolePlayGame.pdb
+C:\Users\artem\source\repos\RolePlayGame\RolePlayGame\obj\Debug\net6.0-windows\RolePlayGame.genruntimeconfig.cache
+C:\Users\artem\source\repos\RolePlayGame\RolePlayGame\obj\Debug\net6.0-windows\ref\RolePlayGame.dll
